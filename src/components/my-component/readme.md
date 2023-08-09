@@ -7,11 +7,14 @@
 
 ## Properties
 
-| Property | Attribute | Description     | Type     | Default     |
-| -------- | --------- | --------------- | -------- | ----------- |
-| `first`  | `first`   | The first name  | `string` | `undefined` |
-| `last`   | `last`    | The last name   | `string` | `undefined` |
-| `middle` | `middle`  | The middle name | `string` | `undefined` |
+| Property             | Attribute               | Description | Type     | Default     |
+| -------------------- | ----------------------- | ----------- | -------- | ----------- |
+| `cardNumber`         | `card-number`           |             | `string` | `undefined` |
+| `city`               | `city`                  |             | `string` | `undefined` |
+| `cvc`                | `cvc`                   |             | `string` | `undefined` |
+| `nameOnCard`         | `name-on-card`          |             | `string` | `undefined` |
+| `secureAddressLine1` | `secure-address-line-1` |             | `string` | `undefined` |
+| `securePostcode`     | `secure-postcode`       |             | `string` | `undefined` |
 
 
 ----------------------------------------------
